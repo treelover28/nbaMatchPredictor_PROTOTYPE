@@ -28,13 +28,13 @@ public class Match
 	
 	public Match(Team team1, Team team2)
 	{
-		// get home team stats
+		// get first team's stats
 		name1= team1.getName();
 		OffRating1 = team1.getOffRating();
 		DefRating1 = team1.getDefRating();
 		pace1 = team1.getPace();
 		
-		// get away team stats
+		// get second team's stats
 		name2= team2.getName(); 
 		OffRating2 = team2.getOffRating();
 		DefRating2 = team2.getDefRating();
