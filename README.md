@@ -1,4 +1,5 @@
 # NBA Match Predictor &copy; 
+**Version**: 2
 
 **Author:** Khai H Lai
 
@@ -23,4 +24,4 @@ The simulator uses library Jsoup to scrape data from Basketball Reference NBA 20
 ### Next update
 * Make this program into a webapp that can be easily used and accessed by the public.
 * Make this program into a browser extension that automatically fetch from that day's NBA schedule and output predictions.
-* Goal for completion: December 1, 2019
+* Goal for completion: December 20, 2019
