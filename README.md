@@ -1,4 +1,6 @@
 # NBA Match Predictor &copy; 
+### A better implementation in Python with added features and a working API is now available on : [Nba-Match-Predictor](https://github.com/treelover28/NBA-match-predictor). The new version is still a project-in-progress 
+
 **Version**: 2
 
 **Author:** Khai H Lai
